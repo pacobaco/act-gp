@@ -10,13 +10,13 @@ ACT-GP is a multilingual AI platform that generates code and text outputs from k
 - Deployment via API and IDE plugin
 
 ## Repository Structure
-
+```
 data/             # Raw and processed data
 notebooks/        # Analysis and prototyping
 src/              # Source code (acquisition, preprocessing, model, evaluation, deployment)
 configs/          # Config files
 tests/            # Unit tests
-
+```
 ## Installation
 ```bash
 git clone https://github.com/<username>/act-gp.git
